@@ -18,4 +18,4 @@ To manage this I typically choose a few technologies that really interest me, an
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[terry.bissonnette@gmail.com](mailto:email@domain.com)
