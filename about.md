@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a career software product architect and 'CTO-for-hire'.
+I am a career software product architect and CTO-for-hire.
 
 I specialize in helping startups and young companies ride the entreprenurial roller coaster of creating impactful software solutions without scaring themselves to death or running out of capital before making their rightful mark on the world.
 
